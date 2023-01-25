@@ -13,3 +13,4 @@ resource "azurerm_public_ip" "bnrrg" {
   tags = {
     environment = "Production"
   }
+}
